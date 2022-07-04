@@ -20,10 +20,6 @@ run `make` or `make -j$(nproc)`
 
 `cd modules`
 
-`git clone https://github.com/frogatto/frogatto.git`
-
 `git clone https://github.com/A-Ducks-Wanderings/a-ducks-wanderings.git`
 
-navigate into anura/modules and rename `frogatto` to `frogatto4`
-
-then run `./anura --log-file=a-ducks-wanderings.txt --module=frogatto4 --module=a-ducks-wanderings`
+then run `./anura --log-file=a-ducks-wanderings.txt --module=a-ducks-wanderings`
