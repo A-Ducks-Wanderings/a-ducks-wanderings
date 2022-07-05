@@ -22,4 +22,6 @@ run `make` or `make -j$(nproc)`
 
 `git clone https://github.com/A-Ducks-Wanderings/a-ducks-wanderings.git`
 
+`cd ..`
+
 then run `./anura --log-file=a-ducks-wanderings.txt --module=a-ducks-wanderings`
