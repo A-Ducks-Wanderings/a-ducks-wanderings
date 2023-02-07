@@ -1,2 +1,9 @@
-## Github contributors
-https://github.com//A-Ducks-Wanderings/a-ducks-wanderings/graphs/contributors
+## Github Contributors
+
+https://github.com/lasercatto
+
+https://github.com/Frostwithasideofsalt
+
+### Additional Contributions
+
+https://github.com/DDR0
