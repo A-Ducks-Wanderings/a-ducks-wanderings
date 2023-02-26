@@ -18,6 +18,6 @@ Current instructions on how to install on Debian:
 
 run `make` or `make -j$(nproc)`
 
-`git clone https://github.com/A-Ducks-Wanderings/a-ducks-wandering.git modules/a-ducks-wanderings`
+`git clone https://github.com/A-Ducks-Wanderings/a-ducks-wanderings.git modules/a-ducks-wanderings`
 
 then run `./anura --log-file=a-ducks-wanderings.txt --module=a-ducks-wanderings`
